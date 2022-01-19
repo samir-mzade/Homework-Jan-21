@@ -1,0 +1,8 @@
+C:\Users\samir\source\repos\HomeworkAbstractClassTask1\HomeworkAbstractClassTask1\bin\Debug\HomeworkAbstractClassTask1.exe.config
+C:\Users\samir\source\repos\HomeworkAbstractClassTask1\HomeworkAbstractClassTask1\bin\Debug\HomeworkAbstractClassTask1.exe
+C:\Users\samir\source\repos\HomeworkAbstractClassTask1\HomeworkAbstractClassTask1\bin\Debug\HomeworkAbstractClassTask1.pdb
+C:\Users\samir\source\repos\HomeworkAbstractClassTask1\HomeworkAbstractClassTask1\obj\Debug\HomeworkAbstractClassTask1.csproj.AssemblyReference.cache
+C:\Users\samir\source\repos\HomeworkAbstractClassTask1\HomeworkAbstractClassTask1\obj\Debug\HomeworkAbstractClassTask1.csproj.SuggestedBindingRedirects.cache
+C:\Users\samir\source\repos\HomeworkAbstractClassTask1\HomeworkAbstractClassTask1\obj\Debug\HomeworkAbstractClassTask1.csproj.CoreCompileInputs.cache
+C:\Users\samir\source\repos\HomeworkAbstractClassTask1\HomeworkAbstractClassTask1\obj\Debug\HomeworkAbstractClassTask1.exe
+C:\Users\samir\source\repos\HomeworkAbstractClassTask1\HomeworkAbstractClassTask1\obj\Debug\HomeworkAbstractClassTask1.pdb
